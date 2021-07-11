@@ -1,4 +1,4 @@
-## Hi, I'm [Runal Jain!]() 👋
+## Hi, I'm [Runal Jain!](https://competent-carson-436757.netlify.app/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=runaljain255&label=Views&color=blue&style=plastic" alt="runaljain255" /> </p>
 
@@ -33,7 +33,7 @@
 
 [![Twitter: runaljain255](https://img.shields.io/twitter/follow/runaljain255?style=social)](https://twitter.com/runaljain255)
 [![GitHub iampawan](https://img.shields.io/github/followers/runaljain255?label=follow&style=social)](https://github.com/runaljain255)
-[![website](https://img.shields.io/badge/PortfolioWebsite-runal.live-2648ff?style=flat-square&logo=google-chrome)]()
+[![website](https://img.shields.io/badge/PortfolioWebsite-GoToPortfolio-2648ff?style=flat-square&logo=google-chrome)](https://competent-carson-436757.netlify.app/)
 
 
 **Languages and Tools:**  
