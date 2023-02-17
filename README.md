@@ -48,9 +48,6 @@
 <a href="https://github.com/runaljain255">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runaljain255&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/runaljain255">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=runaljain255&show_icons=true&theme=light&line_height=27" alt="Runal's github stats"/>
-</a>
 <a href="https://github.com/runaljain255/Customized-Home-Automation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=runaljain255&repo=Customized-Home-Automation&theme=light" />
 
@@ -59,7 +56,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=runaljain255&repo=Aman_Company&theme=light" />
 </a>
 <a href="https://github.com/muthurathinavel/after-you-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muthurathinavel&repo=after-you-app&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muthurathinavel&repo=after-you-app&theme=light" alt="Private project"/>
 </a>
 <div align="center">
 
