@@ -23,7 +23,8 @@
 <br/>
 
 
-- 🔭 I’m currently working on [dotNet Core](https://docs.microsoft.com/en-us/dotnet/) and  [Angular2](https://angular.io/).
+- 🔭 I'm currently working on ASP.NET MVC, WebApi , Angular , Reactjs.
+- 🔭 I’ve worked on [dotNet Core](https://docs.microsoft.com/en-us/dotnet/) and  [Angular2](https://angular.io/).
 - 🌱 I’m currently learning more about Web App and Mobile App Development.
 - 🤔 I’m looking to learn Machine Learning .
 - 🤔 I’m looking Crypto as Future Currency (To The MOONNNN!!) .
